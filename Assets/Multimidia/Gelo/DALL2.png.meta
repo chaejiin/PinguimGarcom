@@ -1,12 +1,12 @@
 fileFormatVersion: 2
-guid: ef32849456384524ca7b96640543d140
+guid: beda04396e7d7874a9c38749a3c4cd50
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 0
+    enableMipMap: 1
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -37,13 +37,13 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 1
-    wrapV: 1
+    wrapU: 0
+    wrapV: 0
     wrapW: 0
-  nPOTScale: 0
+  nPOTScale: 1
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 0
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -52,9 +52,9 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 1
+  alphaIsTransparency: 0
   spriteTessellationDetail: -1
-  textureType: 8
+  textureType: 0
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -147,100 +147,12 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: DALL_E_2025-02-19_13.11.05_-_A_set_of_five_elegant_glassware_illustrations_in_a_clean_cartoon_style__each_isolated_on_a_transparent_background._The_glasses_include__a_tall_and_nar__1_-removebg-preview_0
-      rect:
-        serializedVersion: 2
-        x: 30
-        y: 69
-        width: 95
-        height: 352
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: acd451f61325da349b830d735deb63d2
-      internalID: -2101527101
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DALL_E_2025-02-19_13.11.05_-_A_set_of_five_elegant_glassware_illustrations_in_a_clean_cartoon_style__each_isolated_on_a_transparent_background._The_glasses_include__a_tall_and_nar__1_-removebg-preview_1
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 71
-        width: 91
-        height: 269
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 96d94a7043614ac4f96e2d43f11b5335
-      internalID: 1412728533
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DALL_E_2025-02-19_13.11.05_-_A_set_of_five_elegant_glassware_illustrations_in_a_clean_cartoon_style__each_isolated_on_a_transparent_background._The_glasses_include__a_tall_and_nar__1_-removebg-preview_2
-      rect:
-        serializedVersion: 2
-        x: 250
-        y: 70
-        width: 117
-        height: 283
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4737f0be75c7ec948b6ecebf52842d64
-      internalID: 672821702
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DALL_E_2025-02-19_13.11.05_-_A_set_of_five_elegant_glassware_illustrations_in_a_clean_cartoon_style__each_isolated_on_a_transparent_background._The_glasses_include__a_tall_and_nar__1_-removebg-preview_3
-      rect:
-        serializedVersion: 2
-        x: 371
-        y: 61
-        width: 123
-        height: 353
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a9663fb4de3be1944bd4fdce028ca4e7
-      internalID: -990464005
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: c8f1310c5d826cb45ba9194d3ba147f3
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -249,11 +161,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      DALL_E_2025-02-19_13.11.05_-_A_set_of_five_elegant_glassware_illustrations_in_a_clean_cartoon_style__each_isolated_on_a_transparent_background._The_glasses_include__a_tall_and_nar__1_-removebg-preview_0: -2101527101
-      DALL_E_2025-02-19_13.11.05_-_A_set_of_five_elegant_glassware_illustrations_in_a_clean_cartoon_style__each_isolated_on_a_transparent_background._The_glasses_include__a_tall_and_nar__1_-removebg-preview_1: 1412728533
-      DALL_E_2025-02-19_13.11.05_-_A_set_of_five_elegant_glassware_illustrations_in_a_clean_cartoon_style__each_isolated_on_a_transparent_background._The_glasses_include__a_tall_and_nar__1_-removebg-preview_2: 672821702
-      DALL_E_2025-02-19_13.11.05_-_A_set_of_five_elegant_glassware_illustrations_in_a_clean_cartoon_style__each_isolated_on_a_transparent_background._The_glasses_include__a_tall_and_nar__1_-removebg-preview_3: -990464005
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
